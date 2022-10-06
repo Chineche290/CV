@@ -8,7 +8,7 @@
   <body>
 <table>
 <tr>
-<td><img src="1651765140470_3.jpg" alt="chineche's profile picture"></td>
+<td><img src="/wessd(4)_1.jpg" alt="chineche's profile picture"></td>
 <td><h1>Chineche Agbaji</h1>
 
 <p><em>Student engineer at <strong>UNN</strong>.</em></p>
@@ -32,7 +32,7 @@
   <li>Playing table tennis</li>
   <li>photoshoots</li>
   <li>Solving math problems</li>
-</ol
+</ol>
 
 <table cell spacing="20">
 <tr>
